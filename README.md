@@ -124,9 +124,11 @@ For example, if create a custom model in our multi_stage_ro_analysis folder call
 ```
 
 You should think carefully about what folders should go into your analysis module, for example are you planning to create:
-(1) custom unit models
-(2) flowsheets
-(3) plotting scripts 
+
+    (1) custom unit models
+    (2) flowsheets
+    (3) plotting scripts 
+
 If so it might make sense to create a folder for each one to house your scripts and code. so your final structure might look like this. 
 
 ```
