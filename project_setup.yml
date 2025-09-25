@@ -1,0 +1,12 @@
+name: template_name
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11*
+  - git
+  - pytest
+  - pydotenv
+  - pip
+  - pip:
+    - -r requirements.txt

@@ -1,0 +1,7 @@
+[project]
+name = template_name
+readme = "README.md"
+dynamic = ["version"]
+dependencies = [
+    "watertap"
+]
